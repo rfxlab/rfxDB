@@ -1,4 +1,4 @@
-# rfxDatabase
+# rfxGraphDB
 The database for observable data event and reactive data query
 
 # Refer links:
