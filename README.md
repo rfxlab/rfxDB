@@ -1,5 +1,5 @@
-# rfxGraphDB
-The database for observable data event and reactive data query
+# RFX-ADW: Agile Data Warehouse for data-driven, next-generation enterprise 
+The NoSQL database for observable data event and reactive data query
 
 # Refer links:
 * https://en.wikipedia.org/wiki/Reactive_programming
