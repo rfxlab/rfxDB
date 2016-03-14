@@ -1,11 +1,11 @@
 # RFX-DB: Reactive Database for data-driven, next-generation enterprise 
-The NoSQL database for observable data event and reactive data query
 =====
 
 ![alt tag](http://dl.dropboxusercontent.com/u/4074962/mc2ads/resources/images/rfx-DB.png)
 
 *Features:*
 
+* NoSQL database for observable data event and reactive data query
 * Query data Rfx-Query (query for now and get new updated data with PubSub)
 * Processing fast data as real-time view, there are 3 kind of data would be stored queried:
   + behavioral data (game, interests, touch, impressions, click, view,...)
